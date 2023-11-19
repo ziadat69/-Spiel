@@ -1,4 +1,4 @@
-# -Spiel
+# card game
 
 **Schwimmen (Game) - Read Me**
 
